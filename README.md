@@ -2,15 +2,6 @@
 
 This project develops an e-commerce database system, aimed at optimizing performance through refined schema designs and performance tuning. Our work utilizes the "Online Retail" and "Customer Demographics" datasets to deliver a robust, scalable database ready for real-time business intelligence and decision-making.
 
-## Project Team
-
-- Alekhya Thalla
-- Alka Santosh Naik
-- Niveditha Yegina
-- Hima Karan Pusarla
-- Raajitha Sai Bondada
-- Koushik Reddy Gadipalli
-
 ## Features
 
 - **Entity-Relationship Diagram (ERD)**: Detailed relational database schema ensuring data integrity and efficient query processing.
